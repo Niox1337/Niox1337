@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 London, United Kingdom &nbsp;•&nbsp; 🔬 Neural reranking, RAG, and information retrieval &nbsp;•&nbsp; 🛠️ Web, mobile, desktop, and browser tooling
+  📍 London, United Kingdom &nbsp;•&nbsp; 🔬 Neural reranking, RAG, and Information Retrieval &nbsp;•&nbsp; 🛠️ Web, mobile, desktop, and browser tooling
 </p>
 
 <p align="center">
