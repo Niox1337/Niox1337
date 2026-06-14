@@ -74,15 +74,13 @@ Also fluent in RAG, neural reranking, recommender systems, parallel programming,
 ### 📊 GitHub by the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ada-zf525&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada-zf525&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Niox1337&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niox1337&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ada-zf525&hide_border=true&theme=tokyonight" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niox1337&hide_border=true&theme=tokyonight" alt="Streak stats" />
 </p>
-
-<p align="center"><sub>Cards read from my university account where most of the coursework and team projects live.</sub></p>
 
 ---
 
