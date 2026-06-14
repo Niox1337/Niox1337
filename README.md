@@ -9,6 +9,16 @@
   📍 London, United Kingdom &nbsp;•&nbsp; 🔬 Neural reranking, RAG, and information retrieval &nbsp;•&nbsp; 🛠️ Web, mobile, desktop, and browser tooling
 </p>
 
+<p align="center">
+  <a href="https://github.com/Niox1337">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Machine+Learning+Researcher;Retrieval+and+RAG+nerd;Neural+reranking+at+Revax;Hackathon+winner+and+mentor" alt="Typing banner" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Niox1337&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 ---
 
 ### 🔭 What I am up to right now
@@ -58,6 +68,21 @@ Also fluent in RAG, neural reranking, recommender systems, parallel programming,
 - 🛡️ Built an autonomous tank agent at the **Morgan Stanley GUTS Hackathon** using an epsilon greedy strategy and a subsumption behaviour hierarchy
 - 🎓 **First Class Honours** in Computing Science at Glasgow, with the Undergraduate Excellence Scholarship for all four years
 - 🧑‍🏫 Class Representative, Peer Assisted Learning Leader, mentor, and demonstrator, because helping newer engineers find their footing is the fun part
+
+---
+
+### 📊 GitHub by the numbers
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ada-zf525&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada-zf525&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ada-zf525&hide_border=true&theme=tokyonight" alt="Streak stats" />
+</p>
+
+<p align="center"><sub>Cards read from my university account where most of the coursework and team projects live.</sub></p>
 
 ---
 
