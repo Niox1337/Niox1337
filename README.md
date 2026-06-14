@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  📍 London, United Kingdom &nbsp;•&nbsp; 🔬 Neural reranking, RAG, and Information Retrieval &nbsp;•&nbsp; 🛠️ Web, mobile, desktop, and browser tooling
+  📍 London, United Kingdom &nbsp;•&nbsp; 🔬 Neural Reranking, RAG, and Information Retrieval &nbsp;•&nbsp; 🛠️ Web, mobile, desktop, and browser tooling
 </p>
 
 <p align="center">
   <a href="https://github.com/Niox1337">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Machine+Learning+Researcher;Retrieval+and+RAG+nerd;Neural+reranking+at+Revax;Hackathon+winner+and+mentor" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Machine+Learning+Researcher;Retrieval+and+RAG+nerd;Neural+reranking+at+Revax" alt="Typing banner" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ Also fluent in RAG, neural reranking, recommender systems, parallel programming,
 ### 🏆 Wins and side quests
 
 - 🥇 First place at the **Imperial College Fintech Hackathon** with Project Wompoo, a product that shields seniors from phone call fraud, pitched over a weekend against more than 100 students from across the UK and Europe
-- 🛡️ Built an autonomous tank agent at the **Morgan Stanley GUTS Hackathon** using an epsilon greedy strategy and a subsumption behaviour hierarchy
+- 🛡️ Built an autonomous tank agent at the **Morgan Stanley GUTS Hackathon** using a greedy strategy and a subsumption behaviour hierarchy
 - 🎓 **First Class Honours** in Computing Science at Glasgow, with the Undergraduate Excellence Scholarship for all four years
 - 🧑‍🏫 Class Representative, Peer Assisted Learning Leader, mentor, and demonstrator, because helping newer engineers find their footing is the fun part
 
