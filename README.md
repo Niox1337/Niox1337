@@ -38,7 +38,6 @@ My favourite question is not whether a system can produce an answer. It is wheth
 | 🦅 [Hawk Page Indexer](https://chromewebstore.google.com/detail/hawk-page-indexer/dmkfnkkgnjehlppknbpjhgbfeknmafde) | A published Chrome extension that indexes pages and ranks them with BM25F, built for an Amazon client team and recognised by Amazon Edinburgh engineers |
 | 🎯 Adversarial Attacks on Ranking Systems | Research on how adversarial attacks bend neural and non neural retrieval pipelines |
 | 🧬 Synthetic Epilepsy Labels | Generating more than 15,000 synthetic clinical cases from fewer than 100 real samples, with evaluation front and centre |
-| 💬 NLP Question Answering | BERT context vectors versus simple set similarity baselines on WikiQA |
 | 🧾 UK Tax RAG Neural Reranker | My current Revax work, where model quality meets product reliability |
 
 ---
@@ -53,10 +52,7 @@ My favourite question is not whether a system can produce an answer. It is wheth
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 Also fluent in RAG, neural reranking, recommender systems, parallel programming, CI workflows, and the occasional Haskell or Erlang detour.
 
