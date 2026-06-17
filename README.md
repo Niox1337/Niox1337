@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Machine Learning Researcher and Software Engineer who is a little obsessed with retrieval systems.</b><br/>
-  I teach models to surface the right evidence, then build software that makes their behaviour easy to inspect.
+  I train models to surface the right evidence, then build software that makes their behaviour easy to inspect.
 </p>
 
 <p align="center">
